@@ -1,0 +1,1 @@
+start /MIN /D"C:\Ruby25-x64\bin" ruby.exe

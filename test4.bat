@@ -1,0 +1,1 @@
+start /MIN /D "C:\Program Files\JetBrains\WebStorm 2019.1.2\bin"  webstorm64.exe

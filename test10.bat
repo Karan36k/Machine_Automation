@@ -1,0 +1,1 @@
+start /MIN /D"C:\Program Files\JetBrains\PyCharm Community Edition 2017.3.1\bin" pycharm64.exe

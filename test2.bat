@@ -1,0 +1,1 @@
+start /MIN /D"C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2019.1.2\bin" idea64.exe

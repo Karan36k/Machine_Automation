@@ -1,0 +1,1 @@
+start /MIN /D"D:\eclipse-php" eclipse.exe

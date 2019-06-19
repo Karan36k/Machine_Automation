@@ -1,0 +1,1 @@
+start /MIN /D"D:\Eclipse-java" eclipse.exe

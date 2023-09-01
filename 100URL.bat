@@ -9,7 +9,7 @@ FOR /L %%A IN (1,1,1) DO (
 	Start Chrome.exe  http://example.com/#box 
 	timeout /t -20 
 	Start Chrome.exe http://www.example.edu/bells 
-	timeout /t -20 
+	timeout /t -20  
 	Start Chrome.exe https://example.org/ 
 	timeout /t -20 
 	Start Chrome.exe http://example.com/ 
